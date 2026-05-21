@@ -1,4 +1,4 @@
-# Interactive Story Engine 🏰
+# Interactive Story Engine 
 
 O aplicatie WinForms pentru crearea si rularea povestilor interactive bazate pe blocuri narative conectate ca un graf orientat. Proiectul include un **editor vizual** complet pentru autori si un **cititor interactiv** pentru jucatori, cu suport pentru conditii complexe (AND/OR/COMPARISON), efecte asupra starii, imagini de fundal si salvare ca arhiva ZIP.
 
@@ -46,9 +46,9 @@ DecisionEditDialog, ConditionEditorDialog)
 4. Pentru **editor**: click dreapta pe `Story.Editor.WinForms` → Set as Startup Project → F5
 5. Pentru **cititor**: click dreapta pe `Story.Player.WinForms` → Set as Startup Project → F5
 
-## Poveste demo
+## Poveste
 
-Fisierul `poveste_demo.zip` contine povestea **"Evadarea din Turnul Intunecat"**.
+Fisierul `poveste.zip` contine povestea **"Evadarea din Turnul Intunecat"**.
 
 Povestea demonstreaza toate functionalitatile:
 - 4 proprietati de stare (Viata, Energie, Bani, Cheie)
@@ -62,7 +62,7 @@ Povestea demonstreaza toate functionalitatile:
 Pentru a rula demo-ul:
 1. Porneste aplicatia de citire (Story.Player.WinForms)
 2. Fisier → Deschide poveste
-3. Selecteaza `poveste_demo.zip`
+3. Selecteaza `poveste.zip`
 
 ## Controale cititor
 
