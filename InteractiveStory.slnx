@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Story.Editor.WinForms/Story.Editor.WinForms.csproj" Id="5cf081d2-b2e6-48ae-a0f4-60a2acac74ba" />
+  <Project Path="Story.Engine/Story.Engine.csproj" Id="8d22ccd4-b9e4-4a6c-9cb5-875c1bed3d16" />
+  <Project Path="Story.Model/Story.Model.csproj" Id="061a973e-3b89-47e5-ab62-a94909dcdb98" />
+  <Project Path="Story.Persistence/Story.Persistence.csproj" Id="aa0969d7-5eee-4b0c-9725-75b84447988e" />
+  <Project Path="Story.Player.WinForms/Story.Player.WinForms.csproj" Id="56b4f65f-8065-4d47-ab5b-fde41c45415b" />
+</Solution>
