@@ -26,15 +26,21 @@ O aplicatie WinForms pentru crearea si rularea povestilor interactive bazate pe 
 
 ## Structura proiectului
 
+```text
 InteractiveStory/
-├── Story.Model           ← POCO: StoryDefinition, StoryBlock, DecisionDefinition,
-│                            StatePropertyDefinition, EffectDefinition, ConditionNode
-├── Story.Engine          ← GameEngine, GameState, ConditionEvaluator, StoryValidator
-├── Story.Persistence     ← StoryRepository, ImageRepository, StoryJsonSerializer,
-│                            ConditionJsonConverter (polimorfism JSON)
-├── Story.Player.WinForms ← Aplicatia de citire (MainForm)
-└── Story.Editor.WinForms ← Aplicatia de editare (EditorMainForm,
-DecisionEditDialog, ConditionEditorDialog)
+├── Story.Model
+│   └── StoryDefinition, StoryBlock, DecisionDefinition,
+│       StatePropertyDefinition, EffectDefinition, ConditionNode
+├── Story.Engine
+│   └── GameEngine, GameState, ConditionEvaluator, StoryValidator
+├── Story.Persistence
+│   └── StoryRepository, ImageRepository,
+│       StoryJsonSerializer, ConditionJsonConverter
+├── Story.Player.WinForms
+│   └── MainForm (aplicatia de citire)
+└── Story.Editor.WinForms
+    └── EditorMainForm, DecisionEditDialog, ConditionEditorDialog
+```
 
 ## Cum se ruleaza
 
