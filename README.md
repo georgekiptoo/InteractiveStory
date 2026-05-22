@@ -96,6 +96,14 @@ Pentru a rula demo-ul:
 | Buton Editeaza (decizii) | Deschide dialogul de editare decizie |
 | Buton Sterge (decizii) | Sterge decizia selectata |
 
+## Capturi de ecran
+<img width="1366" height="768" alt="Screenshot 2026-05-22 000209" src="https://github.com/user-attachments/assets/a64fb480-a894-4b44-ae5f-ce8823e22deb" />
+<img width="1366" height="768" alt="Screenshot 2026-05-22 000223" src="https://github.com/user-attachments/assets/26ad6021-a0cb-4447-bb3b-b78b05459f6c" />
+<img width="1366" height="768" alt="Screenshot 2026-05-22 000232" src="https://github.com/user-attachments/assets/8d1fc28a-f932-47e1-9caa-f49fdea3c3a3" />
+<img width="1366" height="768" alt="Screenshot 2026-05-22 000240" src="https://github.com/user-attachments/assets/2572871d-22bf-4829-bfcb-c53a0dfd22f8" />
+<img width="1366" height="768" alt="Screenshot 2026-05-22 000248" src="https://github.com/user-attachments/assets/4ab671df-ea7c-40d5-9dec-1de648d6cc10" />
+<img width="1366" height="768" alt="Screenshot 2026-05-22 000256" src="https://github.com/user-attachments/assets/c142b5bd-2f40-4589-afe4-51423913b171" />
+
 ## Ce am invatat
 
 **Serializare polimorfica JSON:** Conditiile sunt reprezentate ca AST (Abstract Syntax Tree) cu noduri de tip COMPARISON, AND si OR imbricate recursiv. Am implementat un `JsonConverter` custom in Newtonsoft.Json care citeste campul `"type"` din JSON si instantiaza clasa concreta corecta (`ComparisonCondition`, `AndCondition`, `OrCondition`).
