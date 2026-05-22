@@ -97,7 +97,14 @@ Pentru a rula demo-ul:
 | Buton Sterge (decizii) | Sterge decizia selectata |
 
 ## Capturi de ecran
-<img width="1366" height="768" alt="Screenshot 2026-05-22 000209" src="https://github.com/user-attachments/assets/a64fb480-a894-4b44-ae5f-ce8823e22deb" />
+
+<img width="1366" height="768" alt="Screenshot 2026-05-22 075251" src="https://github.com/user-attachments/assets/35333a53-22e8-437d-853f-49cc9370165e" />
+<img width="1366" height="768" alt="Screenshot 2026-05-22 075751" src="https://github.com/user-attachments/assets/56e1c290-c0c9-4f87-bb1b-6c4f4d7ef4ec" />
+<img width="1366" height="768" alt="Screenshot 2026-05-22 080047" src="https://github.com/user-attachments/assets/e9b72f25-f559-4403-aaf9-d7fa49c3b6e1" />
+<img width="1366" height="768" alt="Screenshot 2026-05-22 080340" src="https://github.com/user-attachments/assets/02ba4e84-dae6-4900-be18-7635447cdfef" />
+
+## Alti Capturi de ecran de la cititor
+
 <img width="1366" height="768" alt="Screenshot 2026-05-22 000223" src="https://github.com/user-attachments/assets/26ad6021-a0cb-4447-bb3b-b78b05459f6c" />
 <img width="1366" height="768" alt="Screenshot 2026-05-22 000232" src="https://github.com/user-attachments/assets/8d1fc28a-f932-47e1-9caa-f49fdea3c3a3" />
 <img width="1366" height="768" alt="Screenshot 2026-05-22 000240" src="https://github.com/user-attachments/assets/2572871d-22bf-4829-bfcb-c53a0dfd22f8" />
