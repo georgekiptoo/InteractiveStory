@@ -1,6 +1,6 @@
 # Interactive Story Engine 
 
-O aplicatie WinForms pentru crearea si rularea povestilor interactive bazate pe blocuri narative conectate ca un graf orientat. Proiectul include un **editor vizual** complet pentru autori si un **cititor interactiv** pentru jucatori, cu suport pentru conditii complexe (AND/OR/COMPARISON), efecte asupra starii, imagini de fundal si salvare ca arhiva ZIP.
+O aplicatie WinForms pentru crearea si rularea povestilor interactive bazate pe blocuri narative conectate ca un graf orientat. Proiectul include un Editor Vizual complet pentru autori si un Cititor Interactiv pentru jucatori, cu suport pentru conditii complexe (AND/OR/COMPARISON), efecte asupra starii, imagini de fundal si salvare ca arhiva ZIP.
 
 ## Functionalitati
 
